@@ -11,7 +11,7 @@ I am thinking about the topic for the first blog
 
 [About me](about.md)
 
-[Overview](doc/overview.md)
+[Overview](docs/overview.md)
 
 # Welcome to My GitHub Pages Site
 
