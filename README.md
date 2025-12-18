@@ -1,2 +1,5 @@
 # cch008.github.io
-Blog
+## Blog
+
+### First Blog
+I am thinking about the topic for the first blog
