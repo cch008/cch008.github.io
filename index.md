@@ -15,6 +15,8 @@ I am thinking about the topic for the first blog
 
 [Overview](docs/overview.md)
 
+[site](site/content/readme.json)
+
 # Welcome to My GitHub Pages Site
 
 This site hosts documentation, notes, and project updates.
