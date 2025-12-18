@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # cch008.github.io
 ## Blog (This is index.md)
 
