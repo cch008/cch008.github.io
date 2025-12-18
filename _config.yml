@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: My Awesome Site
 description: A brief description of my project!
+nav_enabled: true
