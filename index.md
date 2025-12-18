@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+theme: minima
 nav_order: 1
 ---
 # cch008.github.io
